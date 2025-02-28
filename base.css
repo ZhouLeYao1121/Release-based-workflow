@@ -106,11 +106,13 @@ section {
   display: block;
 }
 body {
-
+  
     background-color: yellow;
 
     background-color: green;
   
+    background-color: green;
+
 }
 ol,
 ul {
